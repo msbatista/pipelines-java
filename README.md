@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/marcelobatista0859/AzureLearning/_apis/build/status/msbatista.pipelines-java?branchName=master)](https://dev.azure.com/marcelobatista0859/AzureLearning/_build/latest?definitionId=7&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
